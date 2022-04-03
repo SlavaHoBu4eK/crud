@@ -1,1 +1,1 @@
-Hello , it is a CRUD project
+Hello , it is a CRUD.
